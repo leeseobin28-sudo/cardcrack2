@@ -1,3 +1,4 @@
+pkg-config
 streamlit
 numpy
 opencv-python-headless
